@@ -18,6 +18,7 @@ for i in range(4):
     time.sleep(0.5)
 print(" lmao that name sucks.")
 
+
 time.sleep(1)
 
 age = int(input("And what's your age?\n"))
