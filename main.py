@@ -16,7 +16,7 @@ print(name, end="")
 for i in range(4):
     print(".", end="")
     time.sleep(0.5)
-print(" That's an interesting name.")
+print(" lmao that name sucks.")
 
 time.sleep(1)
 
